@@ -7,7 +7,9 @@
 /coverage
 
 # production
-/build
+/shareImgGenerator
+
+/.idea
 
 # misc
 .DS_Store
